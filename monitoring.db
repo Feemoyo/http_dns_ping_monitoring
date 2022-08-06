@@ -1,0 +1,4 @@
+intra	HTTP	intra.42.fr	GET	200	120
+workspaces monitoring	PING	workspaces.42sp.org.br	60
+game ping test	PING	game.42sp.org.br	60
+google	PING	google.com	60
